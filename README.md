@@ -2,5 +2,5 @@
 Dijkstra for swift
 Реализация алгоритма Дейкстры на языке swift 5
 На входе принимается массив с весами дуг графа, веса генерируюся рандомно , на выходе выдается массив кратких путей до вершин
-![screenshoot] (scsh.png)
-![screenshoot] (scsh2.png)
+![screenshot] (scsh.png)
+![screenshot] (scsh2.png)
